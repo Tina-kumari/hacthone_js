@@ -1,0 +1,25 @@
+
+body{
+    font-size: xx-large;
+    text-align: center;
+}
+
+.container{
+    max-width: 600;
+    width: 100;
+    background:#fff;
+    padding: 20px 25px;
+    border-radius: 5px;
+}
+
+
+
+body{
+    background-color: #9b599b;
+    font-weight:24px;
+    font-size: medium;
+    
+}
+label{
+    margin-bottom: 5px;
+}
